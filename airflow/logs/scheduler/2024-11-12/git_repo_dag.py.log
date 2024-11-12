@@ -734,3 +734,73 @@ ModuleNotFoundError: No module named 'airflow.providers.github'
 [2024-11-12T14:19:09.561+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:19:09.561+0000] {dag.py:3239} INFO - Sync 1 DAGs
 [2024-11-12T14:19:09.577+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:19:09.577+0000] {dag.py:4180} INFO - Setting next_dagrun for git_repo_dag to 2024-11-11 21:00:00+00:00, run_after=2024-11-12 21:00:00+00:00
 [2024-11-12T14:19:09.616+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/git_repo_dag.py took 0.093 seconds
+[2024-11-12T14:19:39.951+0000] {processor.py:186} INFO - Started process (PID=378) to work on /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:19:39.952+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/git_repo_dag.py for tasks to queue
+[2024-11-12T14:19:39.953+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:19:39.953+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:19:39.967+0000] {processor.py:925} INFO - DAG(s) 'git_repo_dag' retrieved from /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:19:39.985+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:19:39.985+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-12T14:19:40.001+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:19:40.001+0000] {dag.py:4180} INFO - Setting next_dagrun for git_repo_dag to 2024-11-11 21:00:00+00:00, run_after=2024-11-12 21:00:00+00:00
+[2024-11-12T14:19:40.034+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/git_repo_dag.py took 0.087 seconds
+[2024-11-12T14:20:10.425+0000] {processor.py:186} INFO - Started process (PID=381) to work on /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:20:10.425+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/git_repo_dag.py for tasks to queue
+[2024-11-12T14:20:10.427+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:20:10.427+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:20:10.453+0000] {processor.py:925} INFO - DAG(s) 'git_repo_dag' retrieved from /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:20:10.473+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:20:10.473+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-12T14:20:10.489+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:20:10.489+0000] {dag.py:4180} INFO - Setting next_dagrun for git_repo_dag to 2024-11-11 21:00:00+00:00, run_after=2024-11-12 21:00:00+00:00
+[2024-11-12T14:20:10.519+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/git_repo_dag.py took 0.098 seconds
+[2024-11-12T14:20:40.993+0000] {processor.py:186} INFO - Started process (PID=384) to work on /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:20:40.993+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/git_repo_dag.py for tasks to queue
+[2024-11-12T14:20:40.995+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:20:40.995+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:20:41.010+0000] {processor.py:925} INFO - DAG(s) 'git_repo_dag' retrieved from /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:20:41.028+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:20:41.028+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-12T14:20:41.046+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:20:41.046+0000] {dag.py:4180} INFO - Setting next_dagrun for git_repo_dag to 2024-11-11 21:00:00+00:00, run_after=2024-11-12 21:00:00+00:00
+[2024-11-12T14:20:41.087+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/git_repo_dag.py took 0.099 seconds
+[2024-11-12T14:21:11.477+0000] {processor.py:186} INFO - Started process (PID=387) to work on /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:21:11.478+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/git_repo_dag.py for tasks to queue
+[2024-11-12T14:21:11.480+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:21:11.479+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:21:11.493+0000] {processor.py:925} INFO - DAG(s) 'git_repo_dag' retrieved from /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:21:11.511+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:21:11.511+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-12T14:21:11.529+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:21:11.529+0000] {dag.py:4180} INFO - Setting next_dagrun for git_repo_dag to 2024-11-11 21:00:00+00:00, run_after=2024-11-12 21:00:00+00:00
+[2024-11-12T14:21:11.557+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/git_repo_dag.py took 0.085 seconds
+[2024-11-12T14:21:41.839+0000] {processor.py:186} INFO - Started process (PID=390) to work on /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:21:41.840+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/git_repo_dag.py for tasks to queue
+[2024-11-12T14:21:41.841+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:21:41.841+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:21:41.854+0000] {processor.py:925} INFO - DAG(s) 'git_repo_dag' retrieved from /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:21:41.871+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:21:41.871+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-12T14:21:41.887+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:21:41.887+0000] {dag.py:4180} INFO - Setting next_dagrun for git_repo_dag to 2024-11-11 21:00:00+00:00, run_after=2024-11-12 21:00:00+00:00
+[2024-11-12T14:21:41.924+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/git_repo_dag.py took 0.090 seconds
+[2024-11-12T14:22:12.266+0000] {processor.py:186} INFO - Started process (PID=393) to work on /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:22:12.266+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/git_repo_dag.py for tasks to queue
+[2024-11-12T14:22:12.268+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:22:12.268+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:22:12.282+0000] {processor.py:925} INFO - DAG(s) 'git_repo_dag' retrieved from /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:22:12.299+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:22:12.299+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-12T14:22:12.317+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:22:12.317+0000] {dag.py:4180} INFO - Setting next_dagrun for git_repo_dag to 2024-11-11 21:00:00+00:00, run_after=2024-11-12 21:00:00+00:00
+[2024-11-12T14:22:12.362+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/git_repo_dag.py took 0.101 seconds
+[2024-11-12T14:22:42.915+0000] {processor.py:186} INFO - Started process (PID=396) to work on /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:22:42.916+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/git_repo_dag.py for tasks to queue
+[2024-11-12T14:22:42.918+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:22:42.917+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:22:42.931+0000] {processor.py:925} INFO - DAG(s) 'git_repo_dag' retrieved from /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:22:42.948+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:22:42.948+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-12T14:22:42.965+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:22:42.965+0000] {dag.py:4180} INFO - Setting next_dagrun for git_repo_dag to 2024-11-11 21:00:00+00:00, run_after=2024-11-12 21:00:00+00:00
+[2024-11-12T14:22:42.994+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/git_repo_dag.py took 0.085 seconds
+[2024-11-12T14:23:13.341+0000] {processor.py:186} INFO - Started process (PID=399) to work on /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:23:13.342+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/git_repo_dag.py for tasks to queue
+[2024-11-12T14:23:13.344+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:23:13.344+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:23:13.358+0000] {processor.py:925} INFO - DAG(s) 'git_repo_dag' retrieved from /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:23:13.378+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:23:13.378+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-12T14:23:13.396+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:23:13.396+0000] {dag.py:4180} INFO - Setting next_dagrun for git_repo_dag to 2024-11-11 21:00:00+00:00, run_after=2024-11-12 21:00:00+00:00
+[2024-11-12T14:23:13.438+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/git_repo_dag.py took 0.100 seconds
+[2024-11-12T14:23:43.599+0000] {processor.py:186} INFO - Started process (PID=402) to work on /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:23:43.600+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/git_repo_dag.py for tasks to queue
+[2024-11-12T14:23:43.602+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:23:43.602+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:23:43.620+0000] {processor.py:925} INFO - DAG(s) 'git_repo_dag' retrieved from /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:23:43.645+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:23:43.645+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-12T14:23:43.668+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:23:43.668+0000] {dag.py:4180} INFO - Setting next_dagrun for git_repo_dag to 2024-11-11 21:00:00+00:00, run_after=2024-11-12 21:00:00+00:00
+[2024-11-12T14:23:43.706+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/git_repo_dag.py took 0.114 seconds
+[2024-11-12T14:24:14.119+0000] {processor.py:186} INFO - Started process (PID=405) to work on /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:24:14.120+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/git_repo_dag.py for tasks to queue
+[2024-11-12T14:24:14.121+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:24:14.121+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:24:14.135+0000] {processor.py:925} INFO - DAG(s) 'git_repo_dag' retrieved from /opt/airflow/dags/git_repo_dag.py
+[2024-11-12T14:24:14.153+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:24:14.152+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-12T14:24:14.169+0000] {logging_mixin.py:190} INFO - [2024-11-12T14:24:14.169+0000] {dag.py:4180} INFO - Setting next_dagrun for git_repo_dag to 2024-11-11 21:00:00+00:00, run_after=2024-11-12 21:00:00+00:00
+[2024-11-12T14:24:14.209+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/git_repo_dag.py took 0.094 seconds
